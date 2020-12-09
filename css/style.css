@@ -1,0 +1,38 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    background-size: 1090px;
+}
+
+.image{
+    float:right;
+    padding: 5px;
+} */
+.mymargin{
+    margin :0%;
+    float: left;
+    /* border: 2px solid green; */ 
+    height: 30em;
+    /* background-color: rgb(101, 179, 120); */ 
+} 
+.login #login-button{
+    height: 1.9em;
+    width: 30%;
+    color: black;
+    background-color: rgb(173, 109, 152);
+    border: 1px solid rgb(64, 83, 102);
+} 
+.login{
+    border: 2px solid black;
+    height: 20em;
+    padding: 30px;
+    margin-top: 15%;
+    margin-right: 2%;
+    }
+    #demo{
+        text-align: center;
+        padding-top: 8px;
+        background-color: rgb(163, 163, 238);
+    }
